@@ -1,0 +1,27 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1703763885618,
+      "tag": "0000_light_quicksilver",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1703764276381,
+      "tag": "0001_nebulous_tomas",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1703765254452,
+      "tag": "0002_chunky_fantastic_four",
+      "breakpoints": true
+    }
+  ]
+}
